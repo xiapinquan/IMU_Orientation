@@ -1,8 +1,6 @@
-#IMU helper 
-
-##It is used to determine the IMU orientation
-
-##用于判断IMU朝向
+# IMU helper 
+## It is used to determine the IMU orientation
+## 用于判断IMU朝向
 
 ### How to use
 1. record imu data ：Stand -> Forward 10m-> Left turn -> Forward 10m-> Stand, about 10-20s
