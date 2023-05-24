@@ -7,3 +7,7 @@
 2. git clone the repo in your workspace/src.
 3. **catkin_make** and **source devel/setuo.sh**.
 4. rosrun imu_helper imu_helper_node **imu_topic_name**.
+
+### result
+![result](image/res.png)
+
